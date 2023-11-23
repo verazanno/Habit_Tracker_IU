@@ -48,6 +48,6 @@ If youd like to contribute to the project, please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact us at [your.email@example.com].
+If you have any questions or suggestions, please feel free to contact us at [shaka.leslie@gmail.com].
 
 Thank you for using the Habit Tracking App!
